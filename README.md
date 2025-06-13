@@ -6,6 +6,6 @@ A unicode icon browser.
 
 ### Usage 🎏 
 
-**Click and icon to copy it to the clipboard.**
+**📋 Click a unicode icon to copy it to the clipboard 📋**
 
 <small>(c)2025 Chris Byerley | devephant.com</small>
