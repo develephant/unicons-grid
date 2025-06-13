@@ -1,2 +1,2 @@
 # unicons-grid
-A unicde icon browser
+A unicode icon browser
