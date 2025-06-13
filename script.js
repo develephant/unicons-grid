@@ -1,5 +1,5 @@
 // script.js
-import { emojiData } from '../src/emoji-data.js';
+import { emojiData } from './src/emoji-data.js';
 
 const grid = document.getElementById('emoji-grid');
 const toast = document.getElementById('toast');
